@@ -17,3 +17,6 @@ flying in a circle.
 - torque
 - power
 - tether_angle (with respect to the carousel arm)
+
+## See also:
+- https://github.com/ufechner7/KiteModels.jl/wiki
