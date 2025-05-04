@@ -1,0 +1,6 @@
+carousel:
+    radius: 3.5 # radius [m]
+
+kite:
+    area: 20         # area  [m²]
+    aspect_ratio: 10 #       [-]
