@@ -1,5 +1,5 @@
 carousel:
-    radius: 3.5 # radius [m]
+    radius: 3.0 # radius [m]
 
 kite:
     area: 20         # area  [m²]
