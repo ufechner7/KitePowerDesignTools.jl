@@ -4,9 +4,11 @@ authors = ["Uwe Fechner <fechner@aenarete.eu> and contributors"]
 version = "1.0.0-DEV"
 
 [deps]
+StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
 YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 [compat]
+StructTypes = "1.11.0"
 YAML = "0.4.13"
 julia = "1.6.7"
 
