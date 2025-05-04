@@ -4,3 +4,4 @@ carousel:
 kite:
     area: 20         # area  [m²]
     aspect_ratio: 10 #       [-]
+    LoD: 10          # lift over drag ratio

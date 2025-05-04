@@ -10,6 +10,7 @@ mutable struct DTSettings
     radius
     area
     aspect_ratio
+    LoD
     DTSettings() = new()
 end
 
